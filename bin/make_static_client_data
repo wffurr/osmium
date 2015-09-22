@@ -389,6 +389,9 @@ $static['dmgprofiles'] = array(
 		'Caldari State' => [ .01, .0, .51, .48, "//image.eveonline.com/Alliance/500001_128.png" ],
 		'Gallente Federation' => [ .01, .0, .60, .39, "//image.eveonline.com/Alliance/500004_128.png" ],
 		'Minmatar Republic' => [ .12, .50, .31, .07, "//image.eveonline.com/Alliance/500002_128.png" ],
+
+    /* Other factions */
+    'Sleepers' => [ .14, .36, .36, .14 ],
 	),
 );
 
